@@ -83,7 +83,7 @@ echo "Все файлы были скопированы в $output_dir"
 
 ## Запуск скрипта
 
-Для запуска скрипта необходимо открыть терминал в директории, где находится скрипт, и выполнить следующую команду:
+Для запуска скрипта рекомендуется открыть Git Bash в директории, где находится скрипт, и выполнить следующую команду:
 
 ```bash
 ./copy_files.sh путь_к_входной_директории путь_к_выходной_директории
@@ -95,7 +95,19 @@ echo "Все файлы были скопированы в $output_dir"
 
 ## Пример работы
 
-![image](https://github.com/RomaShinkarev/programming_technology/assets/85445712/ebfbae1b-2f55-4efb-8d90-3f2bb1190346)
+Папки до копирования:
+
+![image](https://github.com/RomaShinkarev/programming_technology/assets/85445712/4ba06b72-0bdd-4aa6-acfa-d7aaf4e1f438)
+
+![image](https://github.com/RomaShinkarev/programming_technology/assets/85445712/488e5e57-aeeb-4e99-89b4-d7023d92d92c)
+
+Запуск скрипта:
+
+![image](https://github.com/RomaShinkarev/programming_technology/assets/85445712/47304799-1460-4023-9222-cf2a89e34137)
+
+Папка test2 после запуска скрипта:
+
+![image](https://github.com/RomaShinkarev/programming_technology/assets/85445712/0ecfece9-66ef-442b-9e48-d9fe5a1a87e4)
 
 ## Важно
 
